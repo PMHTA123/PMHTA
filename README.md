@@ -43,7 +43,7 @@ Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C#
 <!--  -->
 <h1>Kiến thức áp dụng</h1>
 <p>
-<strong><h2>Hệ quản trị cơ sở dữ liệu SQL:<\h2></strong><br>
+<strong><h2>Hệ quản trị cơ sở dữ liệu SQL:</h2></strong><br>
 	Hệ quản trị cơ sở dữ liệu SQL(SQL Server) là một hệ thống quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng Transact-SQL để trao đổi dữ liệu giữa Client computer và SQL Server computer. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.<br>
 	SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server 2000 có thể kết hợp "ăn ý" với các server khác như Microsoft InternetInformation Server (IIS), E-Commerce Server, Proxy Server...<br>
 	SQL Server có 7 editions:<br>
@@ -71,7 +71,7 @@ Dữ liệu (Data) chứa trong database sẽ chẳng có ý nghĩa gì nhiều 
 •	Query Analyzer - Ðối với một DBA giỏi thì hầu như chỉ cần công cụ này là có thể quản lý cả một hệ thống database mà không cần đến những thứ khác. Ðây là một môi trường làm việc khá tốt vì ta có thể đánh bất kỳ câu lệnh SQL nào và chạy ngay lập tức đặc biệt là nó giúp cho ta debug stored procedure dễ dàng.<br>
 •	SQL Profiler - Nó có khả năng "chụp" (capture) tất cả các sự kiện hay hoạt động diễn ra trên một SQL server và lưu lại dưới dạng text file rất hữu dụng trong việc kiểm soát hoạt động của SQL Server.<br>
 	SQL viết tắt của Structured Query Language (ngôn ngữ hỏi có cấu trúc), công cụ sử dụng để tổ chức, quản lý và truy xuất dữ liệu đuợc lưu trữ trong các cơ sở dữ liệu. SQL là một hệ thống ngôn ngữ bao gồm tập các câu lệnh sử dụng để tương tác với cơ sở dữ liệu quan hệ.<br>
-Ngôn ngữ lập trình C#:<br>
+<strong><h2>Ngôn ngữ lập trình C#:</h2></strong><br>
 C# là một ngôn ngữ lập trình đơn giản, hiện đại, mục đích tổng quát, hướng đối tượng được phát triển bởi Microsoft và được phê chuẩn bởi European Computer Manufacturers Association (ECMA) và International Standards Organization (ISO).
 C# được phát triển bởi Anders Hejlsberg và team của ông trong khi phát triển .Net Framework.<br><br
 C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Executable Code và Runtime Environment, cho phép chúng ta sử dụng các ngôn ngữ high-level đa dạng trên các nền tảng và cấu trúc máy tính khác nhau.<br>
@@ -80,7 +80,7 @@ C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Exe
 .Net Framework cung cấp tính năng giảm thiểu xung đột khi người sử dụng triển khi các hệ thống trên nhiều phiên bản khác nhau của bộ .Net Framework trên cùng một máy tính.<br>
 Microsoft phát triển bộ .Net Framework với Verson 1.0 bắt đầu từ năm 2002, các phiên bản sau đó lần lượt ra đời, các phiên bản sau đó sẽ được cập nhật các tính năng mới và được gắn liền với bộ công cụ phát triển Visual Studio phiên bản mới.<br>
 ASP.NET là một trong những thành phần cơ bản của .NET Framework, nó cung cấp môi trường phát triển ứng dụng web thông qua các nền tảng công nghệ như ASP.Net MVC, ASP.Net Web Form.<br>
-<strong>Mô hình 3 lớp:</strong><br>
+<strong><h2.Mô hình 3 lớp:</h2></strong><br>
 Đề Tài quản lý của hàng mỹ phẩm được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)<br>
 Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).<br>
 •	Tổ chức mô hình 3-Layer Có rất nhiều cách đặt tên cho các thành phần của 3 lớp như: Cách 1: GUI, BUS, DAL Cách 2: GUI, BLL, DAO, DTO Ở đây chúng tôi xin sử dụng cách này! Cách 3: Presentation, BLL, DAL<br>
