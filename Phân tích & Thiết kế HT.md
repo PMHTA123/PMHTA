@@ -16,14 +16,28 @@ Phần mềm bán mỹ phẩm giúp cho Admin, Quản lý và Nhân viên dễ t
    ![](https://uphinhnhanh.com/images/2017/07/15/DFD.jpg)
 ## Sơ đồ DFD
    ![](https://uphinhnhanh.com/images/2017/07/15/DFD27124.jpg)
-   Trong đó:
+  
+Trong đó:
 1.	 Thêm khách hàng
 2.	 Sửa khách hàng
 3.	 Xóa khách hàng
 4.	 Thêm nhân viên
 5.	 Sửa nhân viên
 6.	 Xóa nhân viên
-7.	 Thêm tivi
-8.	 Sửa tivi
-9.	 Xóa tivi
-10. Xem tivi
+7.	 Thêm 
+8.	 Sửa 
+9.	 Xóa 
+10. Xem 
+## Sơ đồ DFD 2
+   ![](https://uphinhnhanh.com/images/2017/07/15/11111.jpg)
+Trong đó:
+1. Thêm phiếu tính tiền
+2. Thanh toán
+3. Thêm tài khoản admin
+4. Thêm tài khoản client
+5. Tìm kiếm theo mã hàng
+6. Tìm kiếm theo giá tiền
+7. Tìm kiếm theo nhà sản xuất
+8. Tìm kiếm theo tên hàng
+## Sơ đồ Thực thể ER
+ ![](https://uphinhnhanh.com/images/2017/07/15/20120988_1353701548084178_1887566380_n.png)
