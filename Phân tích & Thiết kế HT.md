@@ -12,4 +12,5 @@ Mục tiêu của giai đoạn này là biến đổi phần đầu vào thành 
 + Thiết kế chương trình
 PT Beauty là doanh nghiệp chuyên phân phối, buôn bán các loại mỹ phẩm dành cho phái nữ. 
 Phần mềm bán mỹ phẩm giúp cho Admin, Quản lý và Nhân viên dễ tiếp cận hơn, giúp rút ngắn quá trình làm.
-##Sơ đồ phân rã chức năng (BFD)
+## Sơ đồ DFD
+   ![](https://uphinhnhanh.com/images/2017/07/15/DFD.jpg)
