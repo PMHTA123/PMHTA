@@ -43,7 +43,7 @@ Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C#
 <!--  -->
 <h1>Kiến thức áp dụng</h1>
 <p>
-<strong>Hệ quản trị cơ sở dữ liệu SQL:</strong><br>
+<strong><h2>Hệ quản trị cơ sở dữ liệu SQL:<\h2></strong><br>
 	Hệ quản trị cơ sở dữ liệu SQL(SQL Server) là một hệ thống quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng Transact-SQL để trao đổi dữ liệu giữa Client computer và SQL Server computer. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.<br>
 	SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server 2000 có thể kết hợp "ăn ý" với các server khác như Microsoft InternetInformation Server (IIS), E-Commerce Server, Proxy Server...<br>
 	SQL Server có 7 editions:<br>
@@ -80,7 +80,7 @@ C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Exe
 .Net Framework cung cấp tính năng giảm thiểu xung đột khi người sử dụng triển khi các hệ thống trên nhiều phiên bản khác nhau của bộ .Net Framework trên cùng một máy tính.<br>
 Microsoft phát triển bộ .Net Framework với Verson 1.0 bắt đầu từ năm 2002, các phiên bản sau đó lần lượt ra đời, các phiên bản sau đó sẽ được cập nhật các tính năng mới và được gắn liền với bộ công cụ phát triển Visual Studio phiên bản mới.<br>
 ASP.NET là một trong những thành phần cơ bản của .NET Framework, nó cung cấp môi trường phát triển ứng dụng web thông qua các nền tảng công nghệ như ASP.Net MVC, ASP.Net Web Form.<br>
-<strong>Mô hình 3 lớp:<strong><br>
+<strong>Mô hình 3 lớp:</strong><br>
 Đề Tài quản lý của hàng mỹ phẩm được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)<br>
 Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).<br>
 •	Tổ chức mô hình 3-Layer Có rất nhiều cách đặt tên cho các thành phần của 3 lớp như: Cách 1: GUI, BUS, DAL Cách 2: GUI, BLL, DAO, DTO Ở đây chúng tôi xin sử dụng cách này! Cách 3: Presentation, BLL, DAL<br>
@@ -94,7 +94,7 @@ Khi bạn làm việc với các ứng dụng, nếu với những dự án nh�
 •	DAL sẽ thao tác với Database và trả kết quả về cho BLL, BLL kiểm tra và gửi nó lên GUI để hiển thị cho người dùng.<br>
 •	Một khi gặp lỗi (các trường hợp không đúng dữ liệu) thì đang ở layer nào thì quăng lên trên layer cao hơn nó 1 bậc cho tới GUI thì sẽ quăng ra cho người dùng biết.<br>
 •	Các dữ liệu được trung chuyển giữa các Layer thông qua một đối tượng gọi là Data Transfer Object (DTO), đơn giản đây chỉ là các Class đại diện cho các đối tượng được lưu trữ trong Database.<br>
-
+</p>
 
   </body>
 </html>
