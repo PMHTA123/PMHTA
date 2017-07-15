@@ -18,10 +18,102 @@ SĐT: 01635300108 Email: junjaelove@gmail.com <br>
 Tác giả: Nguyễn Công Toàn-Đồng tác giả<br>
 SĐT: 0974841473 Email: Congtoan0101@gmail.com <br>
 </p>
+<!--  -->
 <h1>Giấy phép</h1>
 <p>
 <a href="https://github.com/QLBMPH/QLBH/blob/master/LICENSE">MIT License</a> Copyright &copy; 2017 QLBHMP - Telecommunications University
 </p>
+<!--  -->
+<h1>Kiến thức áp dụng</h1>
+	Sử dụng các control cơ bản và nâng cao trong Winform.<br>
+	DataGridView.<br>
+	Phân tích thiết kế hệ thống cơ sở dữ liệu.<br>
+	Phân tích thiết kế giao diện.<br>
+	Chuyển data giữa các form.<br>
+	Kết nói với SQL sever.<br>
+	Chuyển Data giữa các form.<br>
+	Phân quyền người dùng trên ứng dụng.<br>
+	Thêm, xóa, sửa dữ liệu từ trang quản trị.<br>
+<!--  -->
+<h1>Chuẩn lập trình</h1>
+•Mục đích:<br>
+Đưa ra các quy ước khi coding với ngôn ngữ lập trình C#, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm. Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình C#, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Visual Studio .NET.<br>
+•Phạm vi áp dụng:<br>
+Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.<br>
+<!--  -->
+<h1>Kiến thức áp dụng</h1>
+<p>
+Hệ quản trị cơ sở dữ liệu SQL:<br>
+	Hệ quản trị cơ sở dữ liệu SQL(SQL Server) là một hệ thống quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng Transact-SQL để trao đổi dữ liệu giữa Client computer và SQL Server computer. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.<br>
+	SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server 2000 có thể kết hợp "ăn ý" với các server khác như Microsoft InternetInformation Server (IIS), E-Commerce Server, Proxy Server...<br>
+	SQL Server có 7 editions:<br>
+- Enterprise: Chứa đầy đủ các đặc trưng của SQL Server và có thể chạy tốt trên hệ thống lên đến 32 CPUs và 64 GB RAM. Thêm vào đó nó có các dịch vụ giúp cho việc phân tích dữ liệu rất hiệu quả (Analysis Services)<br>
+- Standard: Rất thích hợp cho các công ty vừa và nhỏ vì giá thành rẻ hơn nhiều so với Enterprise Edition, nhưng lại bị giới hạn một số chức năng cao cấp (advanced features) khác, edition này có thể chạy tốt trên hệ thống lên đến 4 CPU và 2 GB RAM.<br>
+- Personal: được tối ưu hóa để chạy trên PC nên có thể cài đặt trên hầu hết các phiên bản windows kể cả Windows 98.<br>
+- Developer: Có đầy đủ các tính năng của Enterprise Edition nhưng được chế tạo đặc biệt như giới hạn số lượng người kết nối vào Server cùng một lúc.... Ðây là edition mà các bạn muốn học SQL Server cần có. Chúng ta sẽ dùng edition này trong suốt khóa học. Edition này có thể cài trên Windows 2000 Professional hay Win NT Workstation.<br>
+- Desktop Engine (MSDE): Ðây chỉ là một engine chạy trên desktop và không có user interface (giao diện). Thích hợp cho việc triển khai ứng dụng ở máy client. Kích thước database bị giới hạn khoảng 2 GB.<br>
+- Win CE : Dùng cho các ứng dụng chạy trên Windows CE<br>
+- Trial: Có các tính năng của Enterprise Edition, download free, nhưng giới hạn thời gian sử dụng.<br>
+	Các thành phần quan trọng trong SQL Server:<br>
+SQL Server được cấu tạo bởi nhiều thành phần như Relational Database Engine, Analysis Service và English Query.... Các thành phần này khi phối hợp với nhau tạo thành một giải pháp hoàn chỉnh giúp cho việc lưu trữ và phân tích dữ liệu một cách dễ dàng.<br>
+•	Relational Database Engine - Cái lõi của SQL Server: <br>
+Ðây là một engine có khả năng chứa data ở các quy mô khác nhau dưới dạng table và support tất cả các kiểu kết nối (data connection) thông dụng của Microsoft như ActiveX Data Objects (ADO), OLE DB, and Open Database Connectivity (ODBC). Ngoài ra nó còn có khả năng tự điều chỉnh (tune up) ví dụ như sử dụng thêm các tài nguyên (resource) của máy khi cần và trả lại tài nguyên cho hệ điều hành khi một user log off.<br>
+•	Replication - Cơ chế tạo bản sao (Replica): <br>
+Giả sử bạn có một database dùng để chứa dữ liệu được các ứng dụng thường xuyên cập nhật. Khi bạn muốn có một database giống hệt như thế trên một server khác để chạy báo cáo (report database) (cách làm này thường dùng để tránh ảnh hưởng đến performance của server chính). Vấn đề là report server của bạn cũng cần phải được cập nhật thường xuyên để đảm bảo tính chính xác của các báo cáo. Ta không thể dùng cơ chế back up and restore trong trường hợp này. Vậy cần xử lý thế nào? Lúc đó cơ chế replication của SQL Server sẽ được sử dụng để bảo đảm cho dữ liệu ở 2 database được đồng bộ (synchronized)<br>
+•	Data Transformation Service ( DTS ) - Một dịch vụ chuyển dịch data hiệu quả Nếu bạn làm việc trong một công ty lớn trong đó data được chứa trong nhiều nơi khác nhau và ở các dạng khác nhau cụ thể như chứa trong Oracle, DB2 (của IBM), SQL Server, Microsoft Access....Bạn chắc chắn sẽ có nhu cầu di chuyển data giữa các server này (migrate hay transfer) và không chỉ di chuyển bạn còn muốn định dạng (format) nó trước khi lưu vào database khác, khi đó bạn sẽ thấy DTS giúp bạn giải quyết công việc trên dễ dàng như thế nào.<br>
+•	Analysis Service- Một dịch vụ phân tích dữ liệu rất hay của Microsoft <br>
+Dữ liệu (Data) chứa trong database sẽ chẳng có ý nghĩa gì nhiều nếu như bạn không thể lấy được những thông tin (Information) bổ ích từ đó. Do đó Microsoft cung cấp cho bạn một công cụ rất mạnh giúp cho việc phân tích dữ liệu trở nên dễ dàng và hiệu quả bằng cách dùng khái niệm hình khối nhiều chiều (multi-dimension cubes) và kỹ thuật khai phá dữ liệu (data mining).<br>
+•	English Query - Ðây là một dịch vụ giúp cho việc query data bằng tiếng Anh "trơn" (plain English).<br>
+•	MetaData Service : Dịch vụ này giúp cho việc chứa đựng và "xào nấu" Meta data dễ dàng hơn. Thế thì Meta Data là cái gì vậy? Meta data là những thông tin mô tả về cấu trúc của data trong database như data thuộc loại nào String hay Integer..., một cột nào đó có phải là Primary key hay không....Bởi vì những thông tin này cũng được chứa trong database nên cũng là một dạng data nhưng để phân biệt với data "chính thống" người ta gọi nó là Meta Data. Phần này phải xem thêm trong một thành phần khác của SQL Server là SQLServerBooks Online.<br>
+•	SQL Server Books Online - Rất hữu dụng và không thể thiếu (được đính kèm theo SQL Server).<br>
+•	SQL Server Tools - Ðây là một bộ đồ nghề của người quản trị cơ sở dữ liệu (DBA)<br>
+•	Enterprise Manager - Ðây là một công cụ cho ta thấy toàn cảnh hệ thống cơ sở dữ liệu một cách rất trực quan. Nó rất hữu ích đặc biệt cho người mới học và không thông thạo lắm về SQL.<br><br>
+•	Query Analyzer - Ðối với một DBA giỏi thì hầu như chỉ cần công cụ này là có thể quản lý cả một hệ thống database mà không cần đến những thứ khác. Ðây là một môi trường làm việc khá tốt vì ta có thể đánh bất kỳ câu lệnh SQL nào và chạy ngay lập tức đặc biệt là nó giúp cho ta debug stored procedure dễ dàng.<br>
+•	SQL Profiler - Nó có khả năng "chụp" (capture) tất cả các sự kiện hay hoạt động diễn ra trên một SQL server và lưu lại dưới dạng text file rất hữu dụng trong việc kiểm soát hoạt động của SQL Server.<br>
+	SQL viết tắt của Structured Query Language (ngôn ngữ hỏi có cấu trúc), công cụ sử dụng để tổ chức, quản lý và truy xuất dữ liệu đuợc lưu trữ trong các cơ sở dữ liệu. SQL là một hệ thống ngôn ngữ bao gồm tập các câu lệnh sử dụng để tương tác với cơ sở dữ liệu quan hệ.<br>
+Ngôn ngữ lập trình C#:<br>
+C# là một ngôn ngữ lập trình đơn giản, hiện đại, mục đích tổng quát, hướng đối tượng được phát triển bởi Microsoft và được phê chuẩn bởi European Computer Manufacturers Association (ECMA) và International Standards Organization (ISO).
+C# được phát triển bởi Anders Hejlsberg và team của ông trong khi phát triển .Net Framework.<br><br
+C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Executable Code và Runtime Environment, cho phép chúng ta sử dụng các ngôn ngữ high-level đa dạng trên các nền tảng và cấu trúc máy tính khác nhau.<br>
+C# có những đặc trưng cơ bản sau:<br>
+•	Ngôn ngữ lập trình hướng đối tượng : Ngôn ngữ lập trình C# là ngôn ngữ lập trình thuần hướng đối tượng với các đặc tính như thừa kế, đa hình, đóng gói và trừu tượng.<br>
+•	An toàn kiểu: Biến chưa được khởi tạo không thể dùng trong C#. Hỗ trợ kiểm tra tràn dữ liệu 
+•	Bộ thu gom rác tự động: C# hỗ trợ tự động quản lý bộ nhớ.<br>
+•	Tuân theo chuẩn ECMA (Standardization by European Computer Manufacturers Association).<br><br>
+•	Hỗ trợ Generic: Tương tự như Template trong C++, ngoài ra C# hỗ trợ duyệt các phần từ thông qua Interator (sử dụng foreach)<br>
+•	Partial Classes :  Hỗ trợ khai báo class ở nhiều file khác nhau.<br>
+•	Anonymous Methods : Cho phép lập trình viên sử dụng khối lệnh nhỏ trực tiếp thông qua khai báo delegate.<br>
+•	Nullable Type : Cho phép sử dụng biến chưa giá trị không được định nghĩa trước.<br>
+•	Lập trình song song : .Net Framework và C# hỗ trợ lập trình song song.<br>
+C# là ngôn ngữ lập trình hướng đối tượng cho phép người sử dụng xây dựng các ứng dụng theo kiến trúc Ecosoftware System. Ví dụ :
+•	Xây dựng ứng dụng trên nền tảng web, web service<br>
+•	Game<br>
+•	Ứng dụng Windows Store<br>
+•	Mobile<br>
+•	Các ứng dụng Enterprice<br>
+•	Các ứng dụng Destop<br>
+•	Add On/Add in<br>
+•	Điện toán đám mây…<br>
+Visual Studio.NET:<br>
+.NET Framework là một cơ sở hạ tầng cho phép xây dựng, triển khai và chạy ứng dụng khác nhau và các dịch vụ sử dụng công nghệ .NET. Lập trình viên có thể sử dụng .NET Framework để giảm thiểu tối đa thời gian phát triển và triển khai phần mềm.<br>
+.Net Framework cung cấp tính năng giảm thiểu xung đột khi người sử dụng triển khi các hệ thống trên nhiều phiên bản khác nhau của bộ .Net Framework trên cùng một máy tính.<br>
+Microsoft phát triển bộ .Net Framework với Verson 1.0 bắt đầu từ năm 2002, các phiên bản sau đó lần lượt ra đời, các phiên bản sau đó sẽ được cập nhật các tính năng mới và được gắn liền với bộ công cụ phát triển Visual Studio phiên bản mới.<br>
+ASP.NET là một trong những thành phần cơ bản của .NET Framework, nó cung cấp môi trường phát triển ứng dụng web thông qua các nền tảng công nghệ như ASP.Net MVC, ASP.Net Web Form.<br>
+Mô hình 3 lớp:<br>
+Đề Tài quản lý của hàng mỹ phẩm được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)<br>
+Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).<br>
+•	Tổ chức mô hình 3-Layer Có rất nhiều cách đặt tên cho các thành phần của 3 lớp như: Cách 1: GUI, BUS, DAL Cách 2: GUI, BLL, DAO, DTO Ở đây chúng tôi xin sử dụng cách này! Cách 3: Presentation, BLL, DAL<br>
+•	Presentation Layers Lớp này làm nhiệm vụ giao tiếp với người dùng cuối để thu thập dữ liệu và hiển thị kết quả/dữ liệu thông qua các thành phần trong giao diện người sử dụng. Trong .NET thì bạn có thể dùng Windows Forms, ASP.NET hay Mobile Forms để hiện thực lớp này.<br>
+•	Business Logic Layer Đây là layer xử lý chính các dữ liệu trước khi được đưa lên hiển thị trên màn hình hoặc xử lý các dữ liệu trước khi chuyển xuống Data Access Layer để lưu dữ liệu xuống cơ sở dữ liệu. Đây là nơi đê kiểm tra ràng buộc, các yêu cầu nghiệp vụ, tính toán, xử lý các yêu cầu và lựa chọn kết quả trả về cho Presentation Layers.<br>
+•	Data Access Layer Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và truy xuất dữ liệu của ứng dụng như đọc, lưu, cập nhật cơ sở dữ liệu.<br>
+•	Data Access Layer Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và truy xuất dữ liệu của ứng dụng như đọc, lưu, cập nhật cơ sở dữ liệu.<br>
+•	Cách vận hành của mô hình Đối với 3-Layer, yêu cầu được xử lý tuần tự qua các layer như hình.<br>
+•	Đầu tiên User giao tiếp với Presentation Layers (GUI) để gửi đi thông tin và yêu cầu. Tại layer này, các thông tin sẽ được kiểm tra, nếu OK chúng sẽ được chuyển xuống Business Logic Layer (BLL).<br>
+•	Tại BLL, các thông tin sẽ được nhào nặn, tính toán theo đúng yêu cầu đã gửi, nếu không cần đến Database thì BLL sẽ gửi trả kết quả về GUI, ngược lại nó sẽ đẩy dữ liệu (thông tin đã xử lý) xuống Data Access Layer (DAL).<br>
+•	DAL sẽ thao tác với Database và trả kết quả về cho BLL, BLL kiểm tra và gửi nó lên GUI để hiển thị cho người dùng.<br>
+•	Một khi gặp lỗi (các trường hợp không đúng dữ liệu) thì đang ở layer nào thì quăng lên trên layer cao hơn nó 1 bậc cho tới GUI thì sẽ quăng ra cho người dùng biết.<br>
+•	Các dữ liệu được trung chuyển giữa các Layer thông qua một đối tượng gọi là Data Transfer Object (DTO), đơn giản đây chỉ là các Class đại diện cho các đối tượng được lưu trữ trong Database.<br>
+
 
   </body>
 </html>
