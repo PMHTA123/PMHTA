@@ -80,7 +80,7 @@ C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Exe
 .Net Framework cung cấp tính năng giảm thiểu xung đột khi người sử dụng triển khi các hệ thống trên nhiều phiên bản khác nhau của bộ .Net Framework trên cùng một máy tính.<br>
 Microsoft phát triển bộ .Net Framework với Verson 1.0 bắt đầu từ năm 2002, các phiên bản sau đó lần lượt ra đời, các phiên bản sau đó sẽ được cập nhật các tính năng mới và được gắn liền với bộ công cụ phát triển Visual Studio phiên bản mới.<br>
 ASP.NET là một trong những thành phần cơ bản của .NET Framework, nó cung cấp môi trường phát triển ứng dụng web thông qua các nền tảng công nghệ như ASP.Net MVC, ASP.Net Web Form.<br>
-<strong><h2.Mô hình 3 lớp:</h2></strong><br>
+<strong><h2>Mô hình 3 lớp:</h2></strong><br>
 Đề Tài quản lý của hàng mỹ phẩm được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)<br>
 Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).<br>
 •	Tổ chức mô hình 3-Layer Có rất nhiều cách đặt tên cho các thành phần của 3 lớp như: Cách 1: GUI, BUS, DAL Cách 2: GUI, BLL, DAO, DTO Ở đây chúng tôi xin sử dụng cách này! Cách 3: Presentation, BLL, DAL<br>
