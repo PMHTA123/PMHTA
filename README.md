@@ -19,7 +19,9 @@ Tác giả: Nguyễn Công Toàn-Đồng tác giả<br>
 SĐT: 0974841473 Email: Congtoan0101@gmail.com <br>
 </p>
 <h1>Giấy phép</h1>
-<p>Xem file [LICENSE.md](https://github.com/QLBMPH/QLBH/blob/master/LICENSE)</p>
+<p>
+		<a href="https://github.com/QLBMPH/QLBH/blob/master/LICENSE"></a> Xem tại đây!
+	</p>
 
   </body>
 </html>
