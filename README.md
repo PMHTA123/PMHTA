@@ -12,13 +12,13 @@
  	 Phần mềm QUẢN LÝ CỬA HÀNG TẠP HÓA  của nhóm chúng em ra đời nhằm mục đích hỗ trợ quản lý tốt hơn về nhân viên, khách hàng, số lượng tivi, hóa đơn nhập, hóa đơn bán, đơn giá, màu sắc sản phẩm, … các công việc chính như thêm, sửa, xóa các danh mục, tìm kiếm mặt hàng, …<br>
   	Phần mềm được xây dựng trên ngôn ngữ lập trình C# và hệ quản trị cơ sở dữ liệu SQL nên trong quá trình thực hiện xây dựng phần mềm nhóm chúng em không tránh khỏi những sai sót mong nhận được sự góp ý của thầy để phần mềm được hoàn thiện hơn. Chúng em xin chân thành cảm ơn!<br>
 <!--  -->
-<p>Tác giả: Huỳnh Diệp Phụng-Tác giả <br>
+ <h1>Tác giả</h1>
+ <p>Tác giả: Huỳnh Diệp Phụng-Tác giả <br>
 SĐT: 01635300108 Email: junjaelove@gmail.com <br>
 Tác giả: Nguyễn Công Toàn-Đồng tác giả<br>
 SĐT: 0974841473 Email: Congtoan0101@gmail.com <br>
 </p>
 
- <h1>Tác giả</h1>
   </body>
 </html>
 
