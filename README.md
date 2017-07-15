@@ -18,6 +18,8 @@ SĐT: 01635300108 Email: junjaelove@gmail.com <br>
 Tác giả: Nguyễn Công Toàn-Đồng tác giả<br>
 SĐT: 0974841473 Email: Congtoan0101@gmail.com <br>
 </p>
+<h1>Giấy phép</h1>
+	<p>Xem file [LICENSE.md](https://github.com/QLBMPH/QLBH/blob/master/LICENSE)
 
   </body>
 </html>
