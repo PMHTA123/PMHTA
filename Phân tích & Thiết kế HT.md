@@ -12,5 +12,18 @@ Mục tiêu của giai đoạn này là biến đổi phần đầu vào thành 
 + Thiết kế chương trình
 PT Beauty là doanh nghiệp chuyên phân phối, buôn bán các loại mỹ phẩm dành cho phái nữ. 
 Phần mềm bán mỹ phẩm giúp cho Admin, Quản lý và Nhân viên dễ tiếp cận hơn, giúp rút ngắn quá trình làm.
-## Sơ đồ DFD
+## Sơ đồ BFD
    ![](https://uphinhnhanh.com/images/2017/07/15/DFD.jpg)
+## Sơ đồ DFD
+   ![](https://uphinhnhanh.com/images/2017/07/15/DFD27124.jpg)
+   Trong đó:
+1.	 Thêm khách hàng
+2.	 Sửa khách hàng
+3.	 Xóa khách hàng
+4.	 Thêm nhân viên
+5.	 Sửa nhân viên
+6.	 Xóa nhân viên
+7.	 Thêm tivi
+8.	 Sửa tivi
+9.	 Xóa tivi
+10. Xem tivi
