@@ -43,7 +43,7 @@ Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C#
 <!--  -->
 <h1>Kiến thức áp dụng</h1>
 <p>
-Hệ quản trị cơ sở dữ liệu SQL:<br>
+<strong>Hệ quản trị cơ sở dữ liệu SQL:</strong><br>
 	Hệ quản trị cơ sở dữ liệu SQL(SQL Server) là một hệ thống quản trị cơ sở dữ liệu quan hệ (Relational Database Management System (RDBMS) ) sử dụng Transact-SQL để trao đổi dữ liệu giữa Client computer và SQL Server computer. Một RDBMS bao gồm databases, database engine và các ứng dụng dùng để quản lý dữ liệu và các bộ phận khác nhau trong RDBMS.<br>
 	SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server 2000 có thể kết hợp "ăn ý" với các server khác như Microsoft InternetInformation Server (IIS), E-Commerce Server, Proxy Server...<br>
 	SQL Server có 7 editions:<br>
@@ -75,31 +75,12 @@ Ngôn ngữ lập trình C#:<br>
 C# là một ngôn ngữ lập trình đơn giản, hiện đại, mục đích tổng quát, hướng đối tượng được phát triển bởi Microsoft và được phê chuẩn bởi European Computer Manufacturers Association (ECMA) và International Standards Organization (ISO).
 C# được phát triển bởi Anders Hejlsberg và team của ông trong khi phát triển .Net Framework.<br><br
 C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Executable Code và Runtime Environment, cho phép chúng ta sử dụng các ngôn ngữ high-level đa dạng trên các nền tảng và cấu trúc máy tính khác nhau.<br>
-C# có những đặc trưng cơ bản sau:<br>
-•	Ngôn ngữ lập trình hướng đối tượng : Ngôn ngữ lập trình C# là ngôn ngữ lập trình thuần hướng đối tượng với các đặc tính như thừa kế, đa hình, đóng gói và trừu tượng.<br>
-•	An toàn kiểu: Biến chưa được khởi tạo không thể dùng trong C#. Hỗ trợ kiểm tra tràn dữ liệu 
-•	Bộ thu gom rác tự động: C# hỗ trợ tự động quản lý bộ nhớ.<br>
-•	Tuân theo chuẩn ECMA (Standardization by European Computer Manufacturers Association).<br><br>
-•	Hỗ trợ Generic: Tương tự như Template trong C++, ngoài ra C# hỗ trợ duyệt các phần từ thông qua Interator (sử dụng foreach)<br>
-•	Partial Classes :  Hỗ trợ khai báo class ở nhiều file khác nhau.<br>
-•	Anonymous Methods : Cho phép lập trình viên sử dụng khối lệnh nhỏ trực tiếp thông qua khai báo delegate.<br>
-•	Nullable Type : Cho phép sử dụng biến chưa giá trị không được định nghĩa trước.<br>
-•	Lập trình song song : .Net Framework và C# hỗ trợ lập trình song song.<br>
-C# là ngôn ngữ lập trình hướng đối tượng cho phép người sử dụng xây dựng các ứng dụng theo kiến trúc Ecosoftware System. Ví dụ :
-•	Xây dựng ứng dụng trên nền tảng web, web service<br>
-•	Game<br>
-•	Ứng dụng Windows Store<br>
-•	Mobile<br>
-•	Các ứng dụng Enterprice<br>
-•	Các ứng dụng Destop<br>
-•	Add On/Add in<br>
-•	Điện toán đám mây…<br>
-Visual Studio.NET:<br>
+<strong>Visual Studio.NET:</strong><br>
 .NET Framework là một cơ sở hạ tầng cho phép xây dựng, triển khai và chạy ứng dụng khác nhau và các dịch vụ sử dụng công nghệ .NET. Lập trình viên có thể sử dụng .NET Framework để giảm thiểu tối đa thời gian phát triển và triển khai phần mềm.<br>
 .Net Framework cung cấp tính năng giảm thiểu xung đột khi người sử dụng triển khi các hệ thống trên nhiều phiên bản khác nhau của bộ .Net Framework trên cùng một máy tính.<br>
 Microsoft phát triển bộ .Net Framework với Verson 1.0 bắt đầu từ năm 2002, các phiên bản sau đó lần lượt ra đời, các phiên bản sau đó sẽ được cập nhật các tính năng mới và được gắn liền với bộ công cụ phát triển Visual Studio phiên bản mới.<br>
 ASP.NET là một trong những thành phần cơ bản của .NET Framework, nó cung cấp môi trường phát triển ứng dụng web thông qua các nền tảng công nghệ như ASP.Net MVC, ASP.Net Web Form.<br>
-Mô hình 3 lớp:<br>
+<strong>Mô hình 3 lớp:<strong><br>
 Đề Tài quản lý của hàng mỹ phẩm được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)<br>
 Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).<br>
 •	Tổ chức mô hình 3-Layer Có rất nhiều cách đặt tên cho các thành phần của 3 lớp như: Cách 1: GUI, BUS, DAL Cách 2: GUI, BLL, DAO, DTO Ở đây chúng tôi xin sử dụng cách này! Cách 3: Presentation, BLL, DAL<br>
