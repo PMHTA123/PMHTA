@@ -83,7 +83,7 @@ Thể hiện tính chuyên nghiệp trong lập trình, phân tích thiết kế
 </p>
 <h1>Tài liệu thiết kế</h1>
 <p>
-Mời các bạn [Click xem](https://github.com/QLBMPH/QLBH/blob/master/Ph%C3%A2n%20t%C3%ADch%20%26%20Thi%E1%BA%BFt%20k%E1%BA%BF%20HT.md)
+Tài liệu thiết kế. <a href="https://github.com/QLBMPH/QLBH/blob/master/Ph%C3%A2n%20t%C3%ADch%20%26%20Thi%E1%BA%BFt%20k%E1%BA%BF%20HT.md" target="_blank">Xem tại đây</a>.
 </p>
 <h1>Tài liệu cho người sử dụng</h1>
 <p>
