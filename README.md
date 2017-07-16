@@ -87,7 +87,7 @@ Tài liệu thiết kế. <a href="https://github.com/QLBMPH/QLBH/blob/master/Ph
 </p>
 <h1>Tài liệu cho người sử dụng</h1>
 <p>
-href="https://github.com/QLBMPH/QLBH/blob/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng.md" target="_blank">Xem tại đây</a>.
+Tài liệu cho nhà sử dụng. <a href="https://github.com/QLBMPH/QLBH/blob/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng.md" target="_blank">Xem tại đây</a>.
 </p>
 <h1>Tài liệu cho nhà phát triển</h1>
 <p>
