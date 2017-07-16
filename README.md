@@ -81,8 +81,19 @@ Thể hiện tính chuyên nghiệp trong lập trình, phân tích thiết kế
 2. Nhược điểm:<br>
 Đối với dự án nhỏ việc áp dụng mô hình MC gây cồng kềnh, tốn thời gian trong quá trình phát triển. Tốn thời gian trung chuyển dữ liệu của các thành phần.<br>
 </p>
- <h1>Lời cám ơn</h1>
- <p>
+<h1>Tài liệu thiết kế</h1>
+<p>
+Mời các bạn [Click xem](https://github.com/QLBMPH/QLBH/blob/master/Ph%C3%A2n%20t%C3%ADch%20%26%20Thi%E1%BA%BFt%20k%E1%BA%BF%20HT.md)
+</p>
+<h1>Tài liệu cho người sử dụng</h1>
+<p>
+Mời các bạn [Click xem](https://github.com/QLBMPH/QLBH/blob/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng.md)
+</p>
+<h1>Tài liệu cho nhà phát triển</h1>
+<p>
+Mời các bạn [Click xem](https://github.com/QLBMPH/QLBH/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20ph%C3%A1t%20tri%E1%BB%83n.md)
+</p>
+<h1>Lời cám ơn</h1>
 Thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng, chúng em đã hoàn thành “Phần mềm bán mỹ phẩm". Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện.<br>
 Chúng em xin chân thành cảm ơn Thầy Mai Cường Thọ đã giúp đỡ tận tình để chúng em có thể hoàn thiện được website này. Chúng em sẽ tiếp thu kiến thức và cố gắng nhiều hơn nữa trong học tập và nghiên cứu!<br>
 </p>
