@@ -12,5 +12,6 @@ form nhân viên với tất cả tính năng thêm, sửa, xóa nhân viên
 ### 4) Giao diện hàng hóa
 ![Giao diện hàng hóa](https://uphinhnhanh.com/images/2017/07/16/20067903_1353745351413131_696830987_n.png)
 ### 5) Giao diện hóa đơn
+Form hóa đơn ngoài chức năng thêm, sửa, xóa, còn có thể xem lại hóa đơn đã lập và có thể xem được khách hàng mua bao nhiên sản phẩm
 ![Giao diện hóa đơn](https://uphinhnhanh.com/images/2017/07/16/20138131_1353745581413108_1304838968_o.png)
 
