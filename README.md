@@ -97,6 +97,9 @@ Tài liệu phát triển. <a href="https://github.com/QLBMPH/QLBH/blob/master/T
 <p>
 Danh sách lỗi. <a href="https://github.com/QLBMPH/QLBH/issues" target="_blank">Tại đây</a>.
 </p>
+<h1>Kênh truyền thông</h1>
+Nhấp để xem các tin tức mới nhất. <a href="https://www.facebook.com/PT-shop-1931295577149561/?notif_t=fbpage_fan_invite&notif_id=1500174484688832" target="_blank">Tại đây</a>.
+<p><center><img src="https://uphinhnhanh.com/images/2017/07/16/20137967_1354312211356445_791851512_o.png"></center></p>
 <h1>Lời cám ơn</h1>
 Thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng, chúng em đã hoàn thành “Phần mềm bán mỹ phẩm". Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện.<br>
 Chúng em xin chân thành cảm ơn Thầy Mai Cường Thọ đã giúp đỡ tận tình để chúng em có thể hoàn thiện được website này. Chúng em sẽ tiếp thu kiến thức và cố gắng nhiều hơn nữa trong học tập và nghiên cứu!<br>
