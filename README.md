@@ -87,11 +87,11 @@ Tài liệu thiết kế. <a href="https://github.com/QLBMPH/QLBH/blob/master/Ph
 </p>
 <h1>Tài liệu cho người sử dụng</h1>
 <p>
-Mời các bạn [Click xem](https://github.com/QLBMPH/QLBH/blob/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng.md)
+href="https://github.com/QLBMPH/QLBH/blob/master/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20s%E1%BB%AD%20d%E1%BB%A5ng.md" target="_blank">Xem tại đây</a>.
 </p>
 <h1>Tài liệu cho nhà phát triển</h1>
 <p>
-Mời các bạn [Click xem](https://github.com/QLBMPH/QLBH/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20ph%C3%A1t%20tri%E1%BB%83n.md)
+Tài liệu phát triển. <a href="https://github.com/QLBMPH/QLBH/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20ph%C3%A1t%20tri%E1%BB%83n.md" target="_blank">Xem tại đây</a>.
 </p>
 <h1>Lời cám ơn</h1>
 Thời gian thực hiện đề tài, nhóm chúng em đã gặp không ít khó khăn về tài liệu nghiên cứu, thời gian nghiên cứu và kinh nghiệm lập trình. Tuy nhiên, với sự nỗ lực cố gắng, chúng em đã hoàn thành “Phần mềm bán mỹ phẩm". Website hoàn toàn có thể đưa vào sử dụng thực tế. Song có thể còn có những hạn chế nhất định, kính mong thầy cô góp ý để nhóm được hoàn thiện.<br>
