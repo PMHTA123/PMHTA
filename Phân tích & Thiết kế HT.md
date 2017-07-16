@@ -35,7 +35,7 @@ Trong đó:
 1. Thêm phiếu tính tiền
 2. Thanh toán
 3. Thêm nhân viên
-4. Thêm tài khoản client
+4. Thêm khách hàng
 
 
 
