@@ -81,19 +81,30 @@ C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Exe
 Microsoft phát triển bộ .Net Framework với Verson 1.0 bắt đầu từ năm 2002, các phiên bản sau đó lần lượt ra đời, các phiên bản sau đó sẽ được cập nhật các tính năng mới và được gắn liền với bộ công cụ phát triển Visual Studio phiên bản mới.<br>
 ASP.NET là một trong những thành phần cơ bản của .NET Framework, nó cung cấp môi trường phát triển ứng dụng web thông qua các nền tảng công nghệ như ASP.Net MVC, ASP.Net Web Form.<br>
 <strong><h2>Mô hình 3 lớp:</h2></strong><br>
-Đề Tài quản lý của hàng mỹ phẩm được triển khai theo mô hình 3 lớp (Presentation - Bussiness Logic - Data Access)<br>
-Khi bạn làm việc với các ứng dụng, nếu với những dự án nhỏ thì việc tạo một ứng dụng theo ý của chúng ta rất dễ dàng, tuy nhiên khi bạn làm với những dự án lớn hơn, cần nhiều người cùng làm hơn thì việc lập trình trở nên phức tạp hơn, vậy nên đễ dễ dàng hơn trong việc quản lý các thành phần của hệ thống cũng như ảnh hưởng tới các thành phần khác khi ta thay đổi một thành phần, chúng ta thường nhóm các thành phần có cùng chức năng lại với nhau. Chính vì thế các mô hình lập trình được sinh ra, một trong những mô hình lập trình đó là mô hình 3 lớp (3 - Layer).<br>
-•	Tổ chức mô hình 3-Layer Có rất nhiều cách đặt tên cho các thành phần của 3 lớp như: Cách 1: GUI, BUS, DAL Cách 2: GUI, BLL, DAO, DTO Ở đây chúng tôi xin sử dụng cách này! Cách 3: Presentation, BLL, DAL<br>
-•	Presentation Layers Lớp này làm nhiệm vụ giao tiếp với người dùng cuối để thu thập dữ liệu và hiển thị kết quả/dữ liệu thông qua các thành phần trong giao diện người sử dụng. Trong .NET thì bạn có thể dùng Windows Forms, ASP.NET hay Mobile Forms để hiện thực lớp này.<br>
-•	Business Logic Layer Đây là layer xử lý chính các dữ liệu trước khi được đưa lên hiển thị trên màn hình hoặc xử lý các dữ liệu trước khi chuyển xuống Data Access Layer để lưu dữ liệu xuống cơ sở dữ liệu. Đây là nơi đê kiểm tra ràng buộc, các yêu cầu nghiệp vụ, tính toán, xử lý các yêu cầu và lựa chọn kết quả trả về cho Presentation Layers.<br>
-•	Data Access Layer Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và truy xuất dữ liệu của ứng dụng như đọc, lưu, cập nhật cơ sở dữ liệu.<br>
-•	Data Access Layer Lớp này thực hiện các nghiệp vụ liên quan đến lưu trữ và truy xuất dữ liệu của ứng dụng như đọc, lưu, cập nhật cơ sở dữ liệu.<br>
-•	Cách vận hành của mô hình Đối với 3-Layer, yêu cầu được xử lý tuần tự qua các layer như hình.<br>
-•	Đầu tiên User giao tiếp với Presentation Layers (GUI) để gửi đi thông tin và yêu cầu. Tại layer này, các thông tin sẽ được kiểm tra, nếu OK chúng sẽ được chuyển xuống Business Logic Layer (BLL).<br>
-•	Tại BLL, các thông tin sẽ được nhào nặn, tính toán theo đúng yêu cầu đã gửi, nếu không cần đến Database thì BLL sẽ gửi trả kết quả về GUI, ngược lại nó sẽ đẩy dữ liệu (thông tin đã xử lý) xuống Data Access Layer (DAL).<br>
-•	DAL sẽ thao tác với Database và trả kết quả về cho BLL, BLL kiểm tra và gửi nó lên GUI để hiển thị cho người dùng.<br>
-•	Một khi gặp lỗi (các trường hợp không đúng dữ liệu) thì đang ở layer nào thì quăng lên trên layer cao hơn nó 1 bậc cho tới GUI thì sẽ quăng ra cho người dùng biết.<br>
-•	Các dữ liệu được trung chuyển giữa các Layer thông qua một đối tượng gọi là Data Transfer Object (DTO), đơn giản đây chỉ là các Class đại diện cho các đối tượng được lưu trữ trong Database.<br>
+ MVC là gì ?<br>
+Mô hình MVC (Model - View - Controller) là một kiến trúc phần mềm hay mô hình thiết kế được sử dụng trong kỹ thuật phần mềm. Nó giúp cho các developer tách ứng dụng của họ ra 3 thành phần khác nhau Model, View và Controller. Mỗi thành phần có một nhiệm vụ riêng biệt và độc lập với các thành phần khác.<br>
+Các thành phần trong MVC<br>
+Chúng ta khoan hãy tìm hiểu đến cách thức nó hoạt động mà hãy xem nó gồm những gì! Đây là mô hình MVC<br>
+Các thành phần trong MVC <br>
+Model<br>
+Đây là thành phần chứa tất cả các nghiệp vụ logic, phương thức xử lý, truy xuất database, đối tượng mô tả dữ liệu như các Class, hàm xử lý...<br>
+View<br>
+Đảm nhận việc hiển thị thông tin, tương tác với người dùng, nơi chứa tất cả các đối tượng GUI như textbox, images...Hiểu một cách đơn giản, nó là tập hợp các form hoặc các file HTML.<br>
+Controller<br>
+Giữ nhiệm vụ nhận điều hướng các yêu cầu từ người dùng và gọi đúng những phương thức xử lý chúng... Chẳng hạn thành phần này sẽ nhận request từ url và form để thao tác trực tiếp với Model.<br>
+MVC làm việc như thế nào?<br>
+Nhìn lại sơ đồ phía trên, ta thấy có mũi tên nét liền và những mũi tên nét đứt. Những mũi tên nét đứt được hình thành trên quan điểm của người dùng mà không phải là của những nhà thiết kế phần mềm thực sự. Do đó chúng ta chỉ quan tâm đến những mũi tên còn lại.<br>
+Đây là một cách đơn giản để mô tả lại luồng sự kiện được xử lý trong MVC:<br>
+- User tương tác với View, bằng cách click vào button, user gửi yêu cầu đi.<br>
+- Controller nhận và điều hướng chúng đến đúng phương thức xử lý ở Model.<br>
+- Model nhận thông tin và thực thi các yêu cầu.<br>
+- Khi Model hoàn tất việc xử lý, View sẽ nhận kết quả từ Model và hiển thị lại cho người dùng.<br>
+MVC làm việc như thế nào <br>
+Ưu điểm và nhược điểm của MVC<br>
+1. Ưu điểm:<br>
+Thể hiện tính chuyên nghiệp trong lập trình, phân tích thiết kế. Do được chia thành các thành phần độc lập nên giúp phát triển ứng dụng nhanh, đơn giản, dễ nâng cấp, bảo trì..<br>
+2. Nhược điểm:<br>
+Đối với dự án nhỏ việc áp dụng mô hình MC gây cồng kềnh, tốn thời gian trong quá trình phát triển. Tốn thời gian trung chuyển dữ liệu của các thành phần.<br>
 </p>
  <h1>Lời cám ơn</h1>
  <p>
