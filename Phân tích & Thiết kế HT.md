@@ -34,7 +34,7 @@ Trong đó:
 Trong đó:
 1. Thêm phiếu tính tiền
 2. Thanh toán
-3. Thêm tài khoản admin
+3. Thêm nhân viên
 4. Thêm tài khoản client
 
 
