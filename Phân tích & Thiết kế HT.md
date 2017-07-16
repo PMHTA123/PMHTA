@@ -30,6 +30,7 @@ Trong đó:
 10. Xem 
 ## Sơ đồ DFD 2
    ![](https://uphinhnhanh.com/images/2017/07/15/11111.jpg)
+   
 Trong đó:
 1. Thêm phiếu tính tiền
 2. Thanh toán
