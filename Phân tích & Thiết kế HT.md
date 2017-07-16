@@ -36,6 +36,7 @@ Trong đó:
 2. Thanh toán
 3. Thêm nhân viên
 4. Thêm khách hàng
+5. Thêm hóa đơn
 
 
 
