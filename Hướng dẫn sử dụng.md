@@ -1,6 +1,8 @@
 ## Tài Liệu cho người sử dụng
 * Để hiểu rõ về cách thức sử dụng phần mềm một cách hiệu quả, ta nên đọc tài liệu sau:
 ### 1) Giao diện chính
+tương ưng với mỗi button là 1 form
+nếu click vào button nhân viên thì sẽ chuyển quan form nhân viên
 ![Giao diện chính](https://uphinhnhanh.com/images/2017/07/16/20068284_1353739664747033_1877761287_n.png)
 ### 2) Giao diện nhân viên
 ![Giao diện nhân viên](https://uphinhnhanh.com/images/2017/07/16/20117570_1353740031413663_567933703_n.png)
