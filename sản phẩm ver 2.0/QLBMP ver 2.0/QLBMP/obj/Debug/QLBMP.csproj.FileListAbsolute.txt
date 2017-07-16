@@ -1,0 +1,13 @@
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\bin\Debug\QLBMP.exe.config
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\bin\Debug\QLBMP.exe
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\bin\Debug\QLBMP.pdb
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QLBMP.csprojResolveAssemblyReference.cache
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QL_BanHang.View.frmHangHoa.resources
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QL_BanHang.View.frmHoaDon.resources
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QL_BanHang.View.frmKhachHang.resources
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QLBMP.Form1.resources
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QLBMP.Properties.Resources.resources
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QL_BanHang.View.frmNhanVien.resources
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QLBMP.csproj.GenerateResource.Cache
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QLBMP.exe
+D:\phát triển phần mềm mã nguồn mở\phần mềm bán mỹ phẩm\QLBMP\QLBMP\obj\Debug\QLBMP.pdb
