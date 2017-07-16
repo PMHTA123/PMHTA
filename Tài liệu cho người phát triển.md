@@ -22,3 +22,7 @@ http://www.hoclaptrinh.xyz/2013/11/quy-tac-at-ten-va-tieu-chuan-lap-trinh.html
 Quản lý dự án công nghệ thông tin
 
 https://www.slideshare.net/damanh64/qun-tr-d-n-cng-ngh-thng-tin
+
+Mô hình 3 lớp
+
+https://lmt.com.vn/php/tim-hieu-php/360-tim-hieu-mo-hinh-mvc-la-gi.html
