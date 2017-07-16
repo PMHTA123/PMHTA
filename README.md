@@ -97,6 +97,10 @@ Tài liệu phát triển. <a href="https://github.com/QLBMPH/QLBH/blob/master/T
 <p>
 Danh sách lỗi. <a href="https://github.com/QLBMPH/QLBH/issues" target="_blank">Tại đây</a>.
 </p>
+<h1>Cách lấy và đóng góp mã nguồn</h1>
+<p>
+Mời các bạn truy cập để biết thêm chi tiết. <a href="http://rogerdudler.github.io/git-guide/index.vi.html" target="_blank">Tại đây</a>.
+</p>
 <h1>Kênh truyền thông</h1>
 Nhấp để xem các tin tức mới nhất. <a href="https://www.facebook.com/PT-shop-1931295577149561/?notif_t=fbpage_fan_invite&notif_id=1500174484688832" target="_blank">Tại đây</a>.
 <p><center><img src="https://uphinhnhanh.com/images/2017/07/16/20137967_1354312211356445_791851512_o.png"></center></p>
