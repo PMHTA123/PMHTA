@@ -38,7 +38,7 @@ Trong đó:
 4. Thêm tài khoản client
 5. Tìm kiếm theo mã hàng
 6. Tìm kiếm theo giá tiền
-7. Tìm kiếm theo nhà sản xuất
+
 8. Tìm kiếm theo tên hàng
 ## Sơ đồ Thực thể ER
  ![](https://uphinhnhanh.com/images/2017/07/15/20120988_1353701548084178_1887566380_n.png)
