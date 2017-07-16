@@ -27,7 +27,7 @@ Trong đó:
 7.	 Thêm 
 8.	 Sửa 
 9.	 Xóa 
-10. Xem 
+ 
 ## Sơ đồ DFD 2
    ![](https://uphinhnhanh.com/images/2017/07/15/11111.jpg)
    
