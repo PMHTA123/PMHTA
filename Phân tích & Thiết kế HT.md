@@ -36,8 +36,7 @@ Trong đó:
 2. Thanh toán
 3. Thêm tài khoản admin
 4. Thêm tài khoản client
-5. Tìm kiếm theo mã hàng
-6. Tìm kiếm theo giá tiền
+
 
 
 ## Sơ đồ Thực thể ER
